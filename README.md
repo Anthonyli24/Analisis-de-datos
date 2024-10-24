@@ -1,6 +1,6 @@
 # Análisis de Datos - Curso Optativo (2023)
 
-Este repositorio contiene los archivos y proyectos realizados durante el curso **Introducción al Análisis de Datos**, ofrecido por la **Universidad Nacional de Costa Rica (UNA)** en el segundo ciclo de 2023. El curso se enfocó en enseñar herramientas y técnicas de análisis de datos utilizando Python.
+Este repositorio contiene los archivos y proyectos realizados durante el curso Introducción al Análisis de Datos en la Universidad Nacional de Costa Rica (UNA) durante el segundo ciclo de 2023. El curso se centró en enseñar herramientas y técnicas de análisis de datos utilizando Python.
 
 ## Contenidos Principales
 
